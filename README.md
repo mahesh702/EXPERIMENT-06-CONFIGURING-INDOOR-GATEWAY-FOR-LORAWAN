@@ -1,6 +1,6 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
-# NAME : K Nishal
-# REG NUM : 2305001021 
+# NAME : Mahesh N
+# REG NUM : 2305001017
 ## Aim: 
 
 To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network .
